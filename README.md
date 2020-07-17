@@ -1,4 +1,4 @@
-# MDSSC-GAN_SAM
+# MDSSC-GAN SAM
 Multi-Discriminator with Spectral and Spatial Constraints Adversarial Network for Pansharpening
 
 Anaïs GASTINEAU<sup>1,2</sup>, Jean-François AUJOL<sup>1</sup>, Yannick BERTHOUMIEU<sup>2</sup> and Christian GERMAIN<sup>2</sup>
@@ -17,12 +17,12 @@ The pansharpening problem amounts to fusing a high resolution panchromatic image
 
 ### Discriminator Architecture
 
-<img src="images/archi_dscrim.png" width=400>
+<img src="images/archi_discrim.png" width=400>
 
 ### Results
 
 We obtain sevral results on Pléiades satellite images.
 
-<img src="images/general_result.png" width=400>
-<img src="images/hf_result.png" width=400>
-<img src="images/sam_result.png" width=400>
+<img src="images/general_result.png" width=800>
+<img src="images/hf_result.png" width=800>
+<img src="images/sam_result.png" width=800>
