@@ -4,6 +4,7 @@ Multi-Discriminator with Spectral and Spatial Constraints Adversarial Network fo
 Anaïs GASTINEAU<sup>1,2</sup>, Jean-François AUJOL<sup>1</sup>, Yannick BERTHOUMIEU<sup>2</sup> and Christian GERMAIN<sup>2</sup>
 
 <sup>1</sup> Univ. Bordeaux, Bordeaux INP, CNRS, IMB, UMR 5251, F-33400 Talence, France
+
 <sup>2</sup> Univ. Bordeaux, Bordeaux INP, CNRS, IMS, UMR 5218, F-33400 Talence, France
 
 Abstract:
