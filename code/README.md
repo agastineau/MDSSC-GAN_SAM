@@ -26,7 +26,7 @@ Second step:
 Use file MDSSC-GAN_SAM.py to train and test the network
 
 Usage for training:
-pyhton MDSSC-GAN_SAM.py --mode=train --output_dir=path_output_train_folder
+python MDSSC-GAN_SAM.py --mode=train --output_dir=path_output_train_folder
 
 --mode and --output_dir options are required. Other options are optionals. If not indicate, default values will be used. Other options are:
     
@@ -67,5 +67,5 @@ pyhton MDSSC-GAN_SAM.py --mode=train --output_dir=path_output_train_folder
     --train_tfrecord : path for the .tfrecords file obtained with train images
 
 Usage for testing:
-pyhton MDSSC-GAN_SAM.py --mode=test --checkpoint=path_folder_with_saved_model --output_dir=path_output_test_folder
+python MDSSC-GAN_SAM.py --mode=test --checkpoint=path_folder_with_saved_model --output_dir=path_output_test_folder
 
