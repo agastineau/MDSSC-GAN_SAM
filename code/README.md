@@ -5,6 +5,7 @@ Implementation of Multi-Discriminator with Spectral and Spatial Constraints Adve
 Anaïs GASTINEAU (1,2), Jean-François AUJOL (1), Yannick BERTHOUMIEU (2) and Christian GERMAIN (2)
 
 (1) Univ. Bordeaux, Bordeaux INP, CNRS, IMB, UMR 5251, F-33400 Talence, France 
+
 (2) Univ. Bordeaux, Bordeaux INP, CNRS, IMS, UMR 5218, F-33400 Talence, France 
 
 contact : anais.gastineau@u-bordeaux.fr
