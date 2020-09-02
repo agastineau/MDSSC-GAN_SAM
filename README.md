@@ -1,6 +1,8 @@
 # MDSSC-GAN SAM
 Multi-Discriminator with Spectral and Spatial Constraints Adversarial Network for Pansharpening
 
+https://hal.archives-ouvertes.fr/hal-02906109
+
 Anaïs GASTINEAU<sup>1,2</sup>, Jean-François AUJOL<sup>1</sup>, Yannick BERTHOUMIEU<sup>2</sup> and Christian GERMAIN<sup>2</sup>
 
 <sup>1</sup> Univ. Bordeaux, Bordeaux INP, CNRS, IMB, UMR 5251, F-33400 Talence, France
