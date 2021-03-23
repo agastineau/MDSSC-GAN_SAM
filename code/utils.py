@@ -1,3 +1,6 @@
+# This file 'utils.py' was provided by Liu et al. "PSGAN: A Generative Adversarial Network for Remote Sensing Image Pan-Sharpening"
+# available on github at https://github.com/liouxy/PSGan
+
 import gdal,osr
 
 def array2raster(newRasterfn, rasterOrigin, pixelWidth, pixelHeight, array, bandSize):
