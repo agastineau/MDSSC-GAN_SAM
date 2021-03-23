@@ -1,8 +1,11 @@
 # MDSSC-GAN SAM
 Generative Adversarial Network for Pansharpening with Spectral and Spatial Discriminators
 
-https://hal.archives-ouvertes.fr/hal-02906109v2
-https://ieeexplore.ieee.org/document/9371303
+DOI: 10.1109/TGRS.2021.3060958
+
+Publisher: IEEE: https://ieeexplore.ieee.org/document/9371303
+
+Also available on HAL:  https://hal.archives-ouvertes.fr/hal-02906109v2
 
 Anaïs GASTINEAU<sup>1,2</sup>, Jean-François AUJOL<sup>1</sup>, Yannick BERTHOUMIEU<sup>2</sup> and Christian GERMAIN<sup>2</sup>
 
