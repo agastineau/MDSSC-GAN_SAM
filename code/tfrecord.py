@@ -1,3 +1,6 @@
+# This file 'tfrecord.py' was provided by Liu et al. "PSGAN: A Generative Adversarial Network for Remote Sensing Image Pan-Sharpening"
+# available on github at https://github.com/liouxy/PSGan
+
 import os,sys
 import tensorflow as tf
 import gdal
